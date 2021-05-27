@@ -1,0 +1,18 @@
+export default {
+  Incidents:[],
+  IgnoredNotification:[],
+  userIncedentRequest:[],
+  handledNotifications:[],
+  Notification:[],
+  ClosedIncidents:[],
+  selectedIncident : 0,
+  parentIncident : null,
+  comments : [],
+  incidentsByTask : null,
+  Cat: [],
+  Urgancey: [],
+  Sver: [],
+  comments: [],
+  file: [],
+  incidentsWithIps : [],
+}
